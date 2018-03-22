@@ -4,5 +4,5 @@ def square_array(array)
   new_array
 end
 
-
-puts square_array(1,3,9)
+my_array = [1,3,9]
+puts square_array(my _array)
